@@ -25,6 +25,6 @@ You'll find "Preview" button on "Write/Edit post" page above the post text field
 
 1. jQuery Post Preview in action
 
-== Version history ==
+== Changelog ==
 
 Version history and list of changes you can see [here](http://articlesss.com/jquery-post-preview-wordpress-plugin/#version-history).
