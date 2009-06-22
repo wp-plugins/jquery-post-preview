@@ -3,7 +3,7 @@ Contributors: Dimox
 Donate link:
 Tags: jQuery, post, preview, admin
 Requires at least: 2.5
-Tested up to: 2.7.1
+Tested up to:
 Stable tag: 0.1
 
 Live post preview on "Write/Edit post" page of WordPress admin area using jQuery.
@@ -24,3 +24,7 @@ You'll find "Preview" button on "Write/Edit post" page above the post text field
 == Screenshots ==
 
 1. jQuery Post Preview in action
+
+== Version history ==
+
+Version history and list of changes you can see [here](http://articlesss.com/jquery-post-preview-wordpress-plugin/#version-history).
