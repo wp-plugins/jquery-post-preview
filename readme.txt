@@ -1,6 +1,6 @@
 === jQuery Post Preview ===
 Contributors: Dimox
-Donate link:
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6303701
 Tags: jQuery, post, preview, admin
 Requires at least: 2.5
 Tested up to:
