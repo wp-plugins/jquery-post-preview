@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: jQuery Post Preview
-Plugin URI:
+Plugin URI: http://articlesss.com/jquery-post-preview-wordpress-plugin/
 Description: Live post preview on "Write/Edit post" page of WordPress admin area using jQuery.
 Version: 0.1
 Author: Dimox
