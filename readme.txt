@@ -1,6 +1,6 @@
 === jQuery Post Preview ===
 Contributors: Dimox
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6303701
+Donate link: http://daopay.com/payment/?appcode=53988&prodcode=1
 Tags: jQuery, post, preview, admin
 Requires at least: 2.5
 Tested up to:
@@ -24,7 +24,3 @@ You'll find "Preview" button on "Write/Edit post" page above the post text field
 == Screenshots ==
 
 1. jQuery Post Preview in action
-
-== Changelog ==
-
-Version history and list of changes you can see [here](http://articlesss.com/jquery-post-preview-wordpress-plugin/#version-history).
