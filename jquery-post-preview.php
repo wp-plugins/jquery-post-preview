@@ -3,9 +3,9 @@
 Plugin Name: jQuery Post Preview
 Plugin URI: http://articlesss.com/jquery-post-preview-wordpress-plugin/
 Description: Live post preview on "Write/Edit post" page of WordPress admin area using jQuery.
-Version: 0.1
+Version: 0.2
 Author: Dimox
-Author URI: http://dimox.name/
+Author URI: http://dimox.net/
 */
 
 
@@ -34,8 +34,11 @@ $j(document).ready(function() {
 	var content = '';
 	var textarea_height = $j(textarea).height();
 
-	$j('#ed_toolbar').append('<input type="button" id="preview-tab" value="'+show_text+'" />');
-	//$j(textarea).after('<textarea id="textarea_test" cols="170%" rows="20"></textarea>');
+	if ( $j('#wp-content-editor-container').length ) {
+		$j('#wp-content-editor-container').append('<input type="button" id="preview-tab" value="'+show_text+'" />');
+	} else {
+		$j('#ed_toolbar').append('<input type="button" id="preview-tab" value="'+show_text+'" />');
+	}
 
 	$j('#preview-tab').toggle(
 		function() {
@@ -64,7 +67,6 @@ $j(document).ready(function() {
 			$j('#content_preview').height(textarea_height);
 			$j('#content_preview').html(content_preview);
 
-			//$j('#textarea_test').text($j('#content_preview').html());
 		},
 		function() {
 			$j('#preview-tab').val(show_text);
