@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jQuery Post Preview\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-26 17:16+0300\n"
+"PO-Revision-Date: 2009-03-26 18:16+0300\n"
+"Last-Translator: Dimox\n"
+"Language-Team: Dimox <http://dimox.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: jquery-post-preview.php:30
+msgid "Preview"
+msgstr ""
+
+#: jquery-post-preview.php:31
+msgid "Hide preview"
+msgstr ""
+
+#: jquery-post-preview.php:97
+msgid "<strong style=\"color: #C00\">Attention!</strong> Visual Editor is activated in <a href=\"'+home+'/wp-admin/profile.php\">your user profile</a>. It means that <strong>jQuery Post Preview</strong> plugin may work incorrectly. Deactivate Visual Editor to remove this warning."
+msgstr ""
+
